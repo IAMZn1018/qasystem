@@ -1,0 +1,15 @@
+input/corpus.csv
+.ipynb_checkpoints/word2vec-checkpoint.ipynb
+.ipynb_checkpoints/some_question-checkpoint.ipynb
+.ipynb_checkpoints/slimi-checkpoint.ipynb
+.ipynb_checkpoints/model-checkpoint.ipynb
+.ipynb_checkpoints/insert_qa-checkpoint.ipynb
+.ipynb_checkpoints/cluster-checkpoint.ipynb
+drop_finance.csv
+credit_card_qa.csv
+model/tfidf_model.pkl
+model/random_forest.pkl
+model/random_forest_sus.pkl
+model/finance.model
+model/finance.json
+clusted.csv
